@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sross123
 - 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shashiross9@gmail.com
 
 <!---
