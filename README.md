@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sross123
 - 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me shashiross9@gmail.com
+- 📫 How to reach me shashiross9@gmail.com & 9304172408
 
 <!---
 Sross123/Sross123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
