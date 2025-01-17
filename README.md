@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sross123
-- 👀 I’m interested in Full Stack In MERN Technology 
+- 👀 I’m interested in Full Stack In MERN Technology and React Native 
 - 🌱 I’m keep updating myself with Javascriipt and new things
 - 📫 How to reach me shashiross9@gmail.com
 
